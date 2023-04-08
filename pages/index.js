@@ -88,6 +88,7 @@ export default function Home() {
                 <p className='py-1'>PHP</p>
                 <p className='py-1'>Java SE</p>
                 <p className='py-1'>JavaScript</p>
+                <p className='py-1'>NodeJs</p>
               </div>
               <div className='dark:text-gray-300 text-gray-800'>
                 <h4 className='py-4 text-teal-600'>Frameworks i know</h4>
